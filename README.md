@@ -72,7 +72,8 @@ endmodule
 ### TIMING DIAGRAM
 ![op](timing_full.png)
 ### Truth Table
-![Truth_table_full](https://user-images.githubusercontent.com/93427303/196035017-548725e1-2955-4143-b47e-2b2c36ca9fab.png)
+![Truth_table_full](https://user-images.githubusercontent.com/93427303/196035048-fb67e99f-4007-4ddf-886b-8d50e783649e.png)
+
 
 # Result:
 Thus, a half adder and full adder circuit is designed to verify its truth table in Quartus using Verilog programming.
